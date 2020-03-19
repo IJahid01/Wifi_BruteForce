@@ -18,7 +18,7 @@ git clone https://github.com/madeindjs/Wifi_BruteForce.git
 
 2° - Install Python
 ```
-sudo apt-get install python3.1 
+sudo apt-get install python
 ```
 
 3º - Set execution permitions
