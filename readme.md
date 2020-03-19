@@ -16,9 +16,15 @@ A **Python** script to find all Wifi Networks in the area and try the
 git clone https://github.com/madeindjs/Wifi_BruteForce.git
 ```
 
-2° - Install Python
+2° - Install Python & requirements
 ```
 sudo apt-get install python
+sudo curl https://bootstrap.pypa.io/get-pip.py -o /get-pip.py
+sudo python /get-pip.py
+sudo pip install scapy
+sudo pip install wifi
+
+
 ```
 
 3º - Set execution permitions
