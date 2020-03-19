@@ -30,7 +30,7 @@ sudo find ./ -name "*.py" -exec chmod +x {} \;
 
 4º - Run main tool
 ```
-sudo python3.1 __main__.py
+sudo python __main__.py
 ```
 
 ### TODO:
